@@ -1,4 +1,10 @@
 # robot-dog
+Code and the documentation pdf contain spelling errors.
+Comments in code are partly in english and partly in finnish.
+
+Other than that the simulator works as its supposed to.
+
+
 Folder muokatut contains some 3D models that I have modified. 
 -NOVA SM3 Assembly_SM3_Frame_RightTibia muokattu <-- modified tibia for the robot, attachment point for  the servo is changed to better fit the servomotors used.
 -cover_updated_for_Chris_Shoulder_muokattu v4 <-- modified the bearing holes to fit the bearings I used.
