@@ -13,6 +13,7 @@ Folder muokatut contains some 3D models that I have modified. <br>
 -robottikoiran jetson runko v4 <-- modified main frame part for the robot. It is made to have room for jetson nano and the components in the original design.<br>
 -Assembly_Cover_HeadPanel kamera upotus v8 <-- modified the head part so that it has mounting for IMX219-83 Stereo Camera.<br>
 -Ass - Speaker v5 v1 <-- is modified so that it fits to the new shoulder frame parts.<br>
+-tassumuotti <- mold for casting the paws from silicone
 
 Original design can be found from here:<br>
 https://github.com/cguweb-com/Arduino-Projects/tree/main/Nova-SM3<br>
