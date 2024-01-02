@@ -31,4 +31,6 @@ The syntax of the attach goes like this body.mRightFront.mTibia.Attach(Pin id of
 After the zero and home is set up you can run the code inside the void loop. To make the robot move correctly you need to finetune the zero positions by putting the robot in to a walking position and compare the values in myconfig to the robots current position. Fine tune the degrees until the robot matches to the myconfig values as closely as possible, start from coax joints, continue with femurs and finally tibia. Tibia can be used to eaven out the weight distribution of the robot. <br>
 To make the robot resbond to the remote you need to have the same remote or set up your own. The remote im using can be found here <br>
 https://github.com/cguweb-com/Arduino-Projects/tree/cb5a4712f65acdd1623183609f027163f564fcbd/Nova-SM3/Remote%20Control <br>
-My remote code v0.1 matches this teensy code so it should work with little effort. 
+My remote code v0.1 matches this teensy code so it should work with little effort. <br>
+
+dynamic_balancing_v0.2 works with remote adjusted balancing parameters. Remote code 0.2 matches this version.
