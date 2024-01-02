@@ -1,4 +1,5 @@
 # robot-dog
+![The robot and the remote](https://github.com/tjsauk/robot-dog/blob/0f4ab6e540ba134940ce347607cc30b6bc7361c1/20231214_083017.jpg)
 Code and the documentation pdf contain spelling errors.<br>
 Comments in code are partly in english and partly in finnish.<br>
 
@@ -14,6 +15,9 @@ Folder muokatut contains some 3D models that I have modified. <br>
 -Assembly_Cover_HeadPanel kamera upotus v8 <-- modified the head part so that it has mounting for IMX219-83 Stereo Camera.<br>
 -Ass - Speaker v5 v1 <-- is modified so that it fits to the new shoulder frame parts.<br>
 -tassumuotti <- mold for casting the paws from silicone
+-Paw pressure sensor contains files for the parts and couple of images of the sensors. 
+![Assembly of the paw mould](https://github.com/tjsauk/robot-dog/blob/68ce6b888469fc46eb3688101b585129a66c3e56/Paw%20pressure%20sensor%20files/assembly%20of%20pressure%20sensor.png)
+Here is the partnumber for the sensor from digikey 1738-SEN0293-ND
 
 Original design can be found from here:<br>
 https://github.com/cguweb-com/Arduino-Projects/tree/main/Nova-SM3<br>
@@ -33,4 +37,4 @@ To make the robot resbond to the remote you need to have the same remote or set 
 https://github.com/cguweb-com/Arduino-Projects/tree/cb5a4712f65acdd1623183609f027163f564fcbd/Nova-SM3/Remote%20Control <br>
 My remote code v0.1 matches this teensy code so it should work with little effort. <br>
 
-dynamic_balancing_v0.2 works with remote adjusted balancing parameters. Remote code 0.2 matches this version.
+dynamic_balancing_v0.2 works with remote adjusted balancing parameters. Remote code 0.2 matches this version. <br>
